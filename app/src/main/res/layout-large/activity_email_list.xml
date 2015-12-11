@@ -8,6 +8,7 @@
     android:layout_height="match_parent" >
 
     <!-- TODO: add fragment -->
+    <!-- There's already a fragment. Should I create a new one? -->
     <fragment
         android:id="@+id/fragment_email_list"
         android:layout_height="wrap_content"
